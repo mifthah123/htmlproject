@@ -1,0 +1,11 @@
+div{
+    background-image: url("https://thumbs.dreamstime.com/b/sunrise-dramatic-blue-sky-orange-sun-rays-breaking-clouds-nature-background-hope-concept-110818674.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: larger;
+    border: 5px solid blueviolet;
+    border-radius: 20px;
+}

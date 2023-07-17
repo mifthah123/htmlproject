@@ -1,0 +1,26 @@
+/* #para{
+    color: blue;
+}
+#header1{
+    color: blueviolet;
+}
+
+#header2{
+    background-color: aquamarine;
+} */
+
+.paragraph{
+    background-color: aquamarine;
+    font-size: larger;
+    font-weight: 900;
+}
+
+.header1{
+    font-style: italic;
+    color: aquamarine;
+
+}
+
+.header2{
+    color: aqua;
+}
